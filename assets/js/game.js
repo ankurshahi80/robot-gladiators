@@ -169,6 +169,7 @@ var shop = function () {
             }
 
             break;
+        case "LEAVE":
         case "leave":
             window.alert("Leaving the store.");
 
